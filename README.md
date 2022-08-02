@@ -2,5 +2,6 @@
 <img scr="https://img.shields.io/badge/Kotlin-#7F52FF?style=flat-square&logo=kotlin&logColor=white"/>
 
 <div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=9966FF&lines=Welcome+To+My+GitHub+Page)](https://git.io/typing-svg)
 </div>
