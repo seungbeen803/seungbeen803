@@ -5,8 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=9966FF&lines=Welcome+To+My+GitHub+Page)](https://git.io/typing-svg)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungbeen803&show_icons=true&theme=material-palenight) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungbeen803&layout=compact)](https://github.com/seungbeen803/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungbeen803&show_icons=true&theme=material-palenight) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungbeen803&layout=compact)](https://github.com/seungbeen803/github-readme-stats)
  
  <h3>🌱 𝒗𝒊𝒔𝒊𝒕𝒐𝒓 🌱</h3>
  
