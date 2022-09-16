@@ -8,8 +8,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungbeen803%2F&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungbeen803&show_icons=true&theme=material-palenight) 
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungbeen803&layout=compact)](https://github.com/seungbeen803/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungbeen803&layout=compact)](https://github.com/seungbeen803/github-readme-stats)
+ 
   
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
