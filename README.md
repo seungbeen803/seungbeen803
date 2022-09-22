@@ -19,9 +19,19 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=FFFFFF"/>
 </p>
+
+<h3>🛠 𝑻𝒐𝒐𝒍𝒔 🛠</h3>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=FFFFFF"/> 
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=FFFFFF"/> 
+<img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-square&logo=Sublime Text&logoColor=FFFFFF"/> 
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=FFFFFF"/> 
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=FFFFFF"/> 
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/>
+
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungbeen803&show_icons=true&theme=material-palenight) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungbeen803&layout=compact)](https://github.com/seungbeen803/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungbeen803&show_icons=true&theme=material-palenight) 
 
 </div>
