@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=FFFFFF"/> 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=FFFFFF"/>
 
-<br>
+</br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungbeen803&layout=compact)](https://github.com/seungbeen803/github-readme-stats)
